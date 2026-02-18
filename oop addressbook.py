@@ -1,7 +1,3 @@
-
-
-
-
 class Contact:
     def __init__(self, name, phone_number, email):
         self.name = name
@@ -97,3 +93,4 @@ else:
 myaddressbook.displaycontacts()
 
   
+
