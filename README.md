@@ -1,3 +1,3 @@
 # OOP-Python-Address-Book
 OOP-Python-Address Book
-Made to learn OOP for the first time in PYthon
+Made to learn OOP for the first time in Python
